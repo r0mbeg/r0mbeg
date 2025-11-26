@@ -1,10 +1,8 @@
 ## Hi, I'm Roman 👋
 
 👨‍💻 Backend Developer | Java & Go  
-🚀 Building log processing, automation tools & a bit of SIEM  
-🛠 JVM enthusiast | Go concurrency explorer  
-📊 Love working with databases & structured logging  
-🗣️ Russian (native) | English C1 | German A1  
+🚀 Building log processing, automation tools & a etc
+🗣️ Russian (native) | English C1 | German A2  
 🧠 Interested in algorithms, math, physics & history
 
 # 💻 Tech Stack:
